@@ -13,6 +13,9 @@ app.use(express.json())
 app.get('/',(req,res)=>{
     res.send('Server is running')
 })
+app.get('/allChef',(req,res)=>{
+    res.send(allChef)
+})
 
 app.listen(port,()=>{
     console.log(`FoodBuZZ server is running on port ${port}`)

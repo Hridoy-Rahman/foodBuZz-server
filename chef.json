@@ -1,0 +1,335 @@
+[
+    {
+        "id": "fgvjh2398kj23",
+        "chefPicture": "https://i.ibb.co/8jSFj0Q/1.jpg",
+        "chefName": "Mohammad Rahman",
+        "bio": "Mohammad Rahman is a talented chef from Bangladesh known for his mastery of traditional Bengali cuisine. With over 10 years of experience, he has curated a vast collection of recipes that showcase the rich flavors and cultural heritage of Bangladesh.",
+        "likes": 5000,
+        "numberOfRecipes": 100,
+        "yearsOfExperience": 10,
+        "recipes": [
+            {
+                "id": "rghbkj322k",
+                "recipeName": "Bengali Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Chicken",
+                    "Yogurt",
+                    "Spices",
+                    "Potato"
+                ],
+                "cookingMethod": "1. Marinate the chicken with yogurt and spices.\n2. Cook the basmati rice separately.\n3. In a large pot, layer the rice and chicken.\n4. Add sliced potatoes and more spices.\n5. Cook on low heat until the flavors meld together.",
+                "rating": 4.7,
+                "img": "https://i.ibb.co/prcMNMB/1.jpg",
+                "isFavorite": false
+            },
+            {
+                "id": "jh3j2khbjgv0",
+                "recipeName": "Shorshe Ilish",
+                "ingredients": [
+                    "Hilsa fish",
+                    "Mustard paste",
+                    "Turmeric",
+                    "Green chilies",
+                    "Mustard oil"
+                ],
+                "cookingMethod": "1. Marinate the hilsa fish with turmeric and salt.\n2. Fry the fish until golden brown.\n3. In a separate pan, heat mustard oil.\n4. Add mustard paste and cook until fragrant.\n5. Add green chilies and turmeric.\n6. Place the fried fish in the pan and cook in the mustard sauce.",
+                "rating": 4.9,
+                "img": "https://i.ibb.co/T1dWcYM/2.jpg",
+                "isFavorite": true
+            },
+            {
+                "id": "fgbujyh2133v",
+                "recipeName": "Roshogolla",
+                "ingredients": [
+                    "Milk",
+                    "Lemon juice",
+                    "Sugar",
+                    "Rose water",
+                    "Cardamom"
+                ],
+                "cookingMethod": "1. Boil the milk and add lemon juice to curdle it.\n2. Strain the curdled milk to separate the cheese.\n3. Knead the cheese to remove excess water.\n4. Roll the cheese into small balls.\n5. Boil sugar syrup and add the cheese balls.\n6. Cook until the balls double in size and absorb the syrup.\n7. Add rose water and cardamom for flavor.",
+                "rating": 4.8,
+                "img": "https://i.ibb.co/7kT5z9T/3.jpg",
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "id": "hgfg12iopxds093",
+        "chefPicture": "https://i.ibb.co/cKBKxQZ/2.jpg",
+        "chefName": "Fatima Ahmed",
+        "bio": "Fatima Ahmed is a passionate chef from Bangladesh who specializes in vegetarian and vegan dishes. With her innovative approach to traditional Bangladeshi cuisine, she creates flavorful and health-conscious recipes that cater to a diverse range of dietary preferences.",
+        "likes": 8000,
+        "numberOfRecipes": 80,
+        "yearsOfExperience": 15,
+        "recipes": [
+            {
+                "id": "gvgh21bjhg1cf2m",
+                "recipeName": "Vegetable Biryani",
+                "ingredients": [
+                    "Basmati rice",
+                    "Mixed vegetables",
+                    "Yogurt",
+                    "Spices",
+                    "Ghee"
+                ],
+                "cookingMethod": "1. Cook the basmati rice separately.\n2. In a pan, sauté mixed vegetables with spices.\n3. Layer the rice and vegetables in a pot.\n4. Drizzle yogurt and ghee over the layers.\n5. Cook on low heat until the flavors meld together.",
+                "rating": 4.6,
+                "img": "https://i.ibb.co/Khv7LnF/4.jpg",
+                "isFavorite": true
+            },
+            {
+                "id": "gvjkg12ugf21gjh",
+                "recipeName": "Palak Paneer",
+                "ingredients": [
+                    "Spinach",
+                    "Paneer",
+                    "Onion",
+                    "Tomato",
+                    "Ginger-garlic paste"
+                ],
+                "cookingMethod": "1. Blanch the spinach and blend it into a puree.\n2. In a pan, sauté onions and ginger-garlic paste.\n3. Add chopped tomatoes and cook until soft.\n4. Add the spinach puree and cook for a few minutes.\n5. Add paneer cubes and simmer until the flavors blend together.",
+                "rating": 4.9,
+                "img": "https://i.ibb.co/z2KfNfh/5.jpg",
+                "isFavorite": false
+            },
+            {
+                "id": "gjhbj2gfjh12fhj5",
+                "recipeName": "Mango Lassi",
+                "ingredients": [
+                    "Mango",
+                    "Yogurt",
+                    "Sugar",
+                    "Milk",
+                    "Cardamom"
+                ],
+                "cookingMethod": "1. Blend mangoes, yogurt, sugar, milk, and cardamom.\n2. Adjust the sweetness according to taste.\n3. Serve chilled and garnish with a slice of mango.",
+                "rating": 4.7,
+                "img": "https://i.ibb.co/wMDj7zQ/6.jpg",
+                "isFavorite": true
+            }
+        ]
+    },
+    {
+        "id": "aufd123ggagujk",
+        "chefPicture": "https://i.ibb.co/fDJ1rM2/3.jpg",
+        "chefName": "Sara Khan",
+        "bio": "Sara Khan is a renowned chef from Bangladesh who specializes in traditional Bengali and Mughlai cuisine. With over 15 years of experience, she has gained expertise in creating exquisite dishes that combine authentic flavors with her unique twist.",
+        "likes": 10000,
+        "numberOfRecipes": 150,
+        "yearsOfExperience": 15,
+        "recipes": [
+            {
+                "id": "gvj1bnmbncv4",
+                "recipeName": "Mutton Korma",
+                "ingredients": [
+                    "Mutton",
+                    "Yogurt",
+                    "Onion",
+                    "Ginger-garlic paste",
+                    "Spices"
+                ],
+                "cookingMethod": "1. Marinate the mutton with yogurt and spices.\n2. Heat oil in a pan and sauté onions until golden brown.\n3. Add ginger-garlic paste and cook until fragrant.\n4. Add marinated mutton and cook until tender.\n5. Serve hot with rice or naan.",
+                "rating": 4.8,
+                "img": "https://i.ibb.co/ZfQmxJ1/7.jpg",
+                "isFavorite": false
+            },
+            {
+                "id": "ugjhgfjkhj5hj1hf",
+                "recipeName": "Shahi Paneer",
+                "ingredients": [
+                    "Paneer",
+                    "Cashews",
+                    "Onion",
+                    "Tomato",
+                    "Cream"
+                ],
+                "cookingMethod": "1. Grind cashews and onions into a smooth paste.\n2. In a pan, heat oil and add the paste.\n3. Cook until the mixture turns golden brown.\n4. Add tomatoes and cook until soft.\n5. Add paneer cubes and cream.\n6. Simmer for a few minutes and garnish with coriander leaves.",
+                "rating": 4.9,
+                "img": "https://i.ibb.co/x5kgXRN/8.jpg",
+                "isFavorite": true
+            },
+            {
+                "id": "hbjnvc24nvcfc2",
+                "recipeName": "Mishti Doi",
+                "ingredients": [
+                    "Milk",
+                    "Yogurt",
+                    "Sugar",
+                    "Cardamom",
+                    "Saffron"
+                ],
+                "cookingMethod": "1. Boil the milk and reduce it to half the quantity.\n2. Add sugar and cardamom and mix well.\n3. Let the mixture cool down.\n4. In a separate bowl, mix yogurt and a spoonful of sugar.\n5. Add the yogurt mixture to the cooled milk and stir well.\n6. Pour the mixture into earthen pots and garnish with saffron.\n7. Leave it to set for a few hours or overnight.",
+                "rating": 4.7,
+                "img": "https://i.ibb.co/hgRhNCZ/9.jpg",
+                "isFavorite": true
+            }
+        ]
+    },
+    {
+        "id": "ytfdvujhoi1234",
+        "chefPicture": "https://i.ibb.co/6gbLPnf/4.jpg",
+        "chefName": "Rahim Ahmed",
+        "bio": "Rahim Ahmed is a talented chef known for his fusion creations that combine flavors from Bangladesh and international cuisines. With a passion for experimenting with different ingredients, he delights his guests with innovative and delectable dishes.",
+        "likes": 8000,
+        "numberOfRecipes": 120,
+        "yearsOfExperience": 12,
+        "recipes": [
+            {
+                "id": "gfzsdaxbmi435",
+                "recipeName": "Spicy Jhal Muri",
+                "ingredients": [
+                    "Puffed rice",
+                    "Onion",
+                    "Tomato",
+                    "Green chilies",
+                    "Mustard oil"
+                ],
+                "cookingMethod": "1. Mix puffed rice with chopped onions, tomatoes, and green chilies.\n2. Drizzle mustard oil and sprinkle spices like chaat masala, salt, and red chili powder.\n3. Toss well and serve immediately.",
+                "rating": 4.6,
+                "img": "https://i.ibb.co/Hrc61T9/10.jpg",
+                "isFavorite": true
+            },
+            {
+                "id": "hfjhghgdcb1vbfd34",
+                "recipeName": "Prawn Malai Curry",
+                "ingredients": [
+                    "Prawns",
+                    "Coconut milk",
+                    "Onion",
+                    "Ginger-garlic paste",
+                    "Spices"
+                ],
+                "cookingMethod": "1. Heat oil in a pan and sauté onions until translucent.\n2. Add ginger-garlic paste and cook until fragrant.\n3. Add prawns and cook until they turn pink.\n4. Add coconut milk and spices.\n5. Simmer for a few minutes until the flavors blend together.\n6. Serve hot with rice or naan.",
+                "rating": 4.9,
+                "img": "https://i.ibb.co/TgYG8Lr/11.webp",
+                "isFavorite": false
+            },
+            {
+                "id": "adghqwdkmjbjh653",
+                "recipeName": "Mango Chutney",
+                "ingredients": [
+                    "Ripe mangoes",
+                    "Sugar",
+                    "Mustard seeds",
+                    "Red chili flakes",
+                    "Vinegar"
+                ],
+                "cookingMethod": "1. Peel and chop ripe mangoes.\n2. In a pan, combine mangoes, sugar, mustard seeds, and red chili flakes.\n3. Cook until the mixture thickens and mangoes soften.\n4. Add vinegar and simmer for a few more minutes.\n5. Allow the chutney to cool before serving.",
+                "rating": 4.7,
+                "img": "https://i.ibb.co/qdSTvrB/12.jpg",
+                "isFavorite": true
+            }
+        ]
+    },
+    {
+        "id": "dfwdihu23gtui",
+        "chefPicture": "https://i.ibb.co/0fhJW5k/5.jpg",
+        "chefName": "Farida Rahman",
+        "bio": "Farida Rahman is a passionate chef known for her expertise in Bangladeshi street food. With a keen understanding of local flavors and techniques, she brings the vibrant and diverse street food culture of Bangladesh to the forefront through her culinary creations.",
+        "likes": 6500,
+        "numberOfRecipes": 90,
+        "yearsOfExperience": 8,
+        "recipes": [
+            {
+                "id": "hjhgvbhjbvdfzx3jk34g",
+                "recipeName": "Fuska",
+                "ingredients": [
+                    "Semolina balls",
+                    "Chickpeas",
+                    "Potato",
+                    "Spicy water",
+                    "Tamarind chutney"
+                ],
+                "cookingMethod": "1. Fill semolina balls with a mixture of boiled chickpeas, potatoes, and spices.\n2. Dip the filled balls in spicy water.\n3. Serve the balls with tamarind chutney and enjoy the burst of flavors.",
+                "rating": 4.5,
+                "img": "https://i.ibb.co/fNSB75r/13.jpg",
+                "isFavorite": false
+            },
+            {
+                "id": "jnmcbvk590g",
+                "recipeName": "Jhalmuri",
+                "ingredients": [
+                    "Puffed rice",
+                    "Onion",
+                    "Tomato",
+                    "Green chilies",
+                    "Spices"
+                ],
+                "cookingMethod": "1. Mix puffed rice with chopped onions, tomatoes, and green chilies.\n2. Sprinkle spices like chaat masala, salt, and red chili powder.\n3. Toss well and serve immediately.",
+                "rating": 4.8,
+                "img": "https://i.ibb.co/XF2B4Mc/14.jpg",
+                "isFavorite": true
+            },
+            {
+                "id": "jbnmndscvjhn5r54e3r",
+                "recipeName": "Bhelpuri",
+                "ingredients": [
+                    "Puffed rice",
+                    "Sev",
+                    "Onion",
+                    "Tomato",
+                    "Tamarind chutney"
+                ],
+                "cookingMethod": "1. Mix puffed rice, sev, chopped onions, tomatoes, and tamarind chutney.\n2. Toss well and serve immediately.",
+                "rating": 4.6,
+                "img": "https://i.ibb.co/yV7DmhD/15.jpg",
+                "isFavorite": true
+            }
+        ]
+    },
+    {
+        "id": "sfghjg2h3jf4213h",
+        "chefPicture": "https://i.ibb.co/sQvCCPS/6.jpg",
+        "chefName": "Kamal Hussain",
+        "bio": "Kamal Hussain is a talented chef who combines his passion for cooking with his love for organic and locally sourced ingredients. With his farm-to-table approach, he creates flavorful and nutritious dishes that celebrate the diversity of Bangladeshi cuisine.",
+        "likes": 7500,
+        "numberOfRecipes": 110,
+        "yearsOfExperience": 10,
+        "recipes": [
+            {
+                "id": "ghvnmnzzzsqqfd13",
+                "recipeName": "Organic Vegetable Curry",
+                "ingredients": [
+                    "Assorted vegetables",
+                    "Coconut milk",
+                    "Onion",
+                    "Ginger-garlic paste",
+                    "Spices"
+                ],
+                "cookingMethod": "1. Heat oil in a pan and sauté onions until translucent.\n2. Add ginger-garlic paste and cook until fragrant.\n3. Add assorted vegetables and cook until tender.\n4. Add coconut milk and spices.\n5. Simmer for a few minutes until the flavors meld together.\n6. Serve hot with rice or roti.",
+                "rating": 4.7,
+                "img": "https://i.ibb.co/SBT5Qzg/16.jpg"
+            },
+            {
+                "id": "m cmnmciyyrfgbgfg42",
+                "recipeName": "Spicy Chicken Biryani",
+                "ingredients": [
+                    "Chicken",
+                    "Basmati rice",
+                    "Onion",
+                    "Yogurt",
+                    "Spices"
+                ],
+                "cookingMethod": "1. Marinate chicken with yogurt and spices for 30 minutes.\n2. Cook basmati rice separately until partially cooked.\n3. In a pan, heat oil and sauté onions until golden brown.\n4. Add marinated chicken and cook until tender.\n5. Layer partially cooked rice over the chicken and onions.\n6. Cover and cook on low heat until the rice is fully cooked.\n7. Serve hot with raita and salad.",
+                "rating": 4.5,
+                "img": "https://i.ibb.co/qMSZqzN/17.jpg"
+            },
+            {
+                "id": "bhjhjbjnmgh2gf2323",
+                "recipeName": "Mango Lassi",
+                "ingredients": [
+                    "Mango",
+                    "Yogurt",
+                    "Milk",
+                    "Sugar",
+                    "Cardamom"
+                ],
+                "cookingMethod": "1. Peel and chop ripe mangoes.\n2. In a blender, combine mangoes, yogurt, milk, sugar, and cardamom.\n3. Blend until smooth and creamy.\n4. Taste and adjust sweetness if needed.\n5. Pour into glasses and serve chilled.\n6. Garnish with a sprinkle of cardamom if desired.",
+                "rating": 4.8,
+                "img": "https://i.ibb.co/KDrfHQ7/18.jpg"
+            }
+        ]
+    }
+]
